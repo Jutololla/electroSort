@@ -24,7 +24,7 @@ const questions = [{
 {
     type: 'number',
     name: 'inchesSize',
-    message: 'Cuantas pulgadas tiene el tv?',
+    message: 'Cuantas pulgadas tiene el tv? (Valor entero mayor que 0',
     validate: function (userInput) {
         return (userInput > 0 && Number.isInteger(userInput)) ? true : "Error";
 
