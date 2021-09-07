@@ -1,0 +1,37 @@
+[{
+    "type": "Otro",
+    "isNationalOrigin": "Si",
+    "consumptionCategory": "B",
+    "quantity": 5
+},
+{
+    "type": "Nevera",
+    "isNationalOrigin": "Si",
+    "consumptionCategory": "A",
+    "quantity": 10
+},{
+    "type": "Televisor",
+    "isNationalOrigin": "No",
+    "consumptionCategory": "C",
+    "quantity": 7
+},{
+    "type": "Televisor",
+    "isNationalOrigin": "No",
+    "consumptionCategory": "B",
+    "quantity": 13
+},{
+    "type": "Televisor",
+    "isNationalOrigin": "Si",
+    "consumptionCategory": "A",
+    "quantity": 3
+},{
+    "type": "Otro",
+    "isNationalOrigin": "No",
+    "consumptionCategory": "A",
+    "quantity": 8
+},{
+    "type": "Nevera",
+    "isNationalOrigin": "No",
+    "consumptionCategory": "C",
+    "quantity": 12
+}]
